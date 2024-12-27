@@ -4,10 +4,9 @@
 This Flutter project is designed to provide [brief description of the project's purpose, such as "a cross-platform mobile application for managing tasks"]. The project showcases the capabilities of Flutter for creating visually appealing and highly functional apps.
 
 ## Features
-- [Feature 1: e.g., "Responsive UI for both Android and iOS"]
-- [Feature 2: e.g., "State management using Provider"]
-- [Feature 3: e.g., "Integration with a REST API"]
-- [Feature 4: e.g., "Custom animations and transitions"]
+- Feature 1: "Responsive UI for both Android and iOS"
+- Feature 2: "State management using Provider"
+
 
 ## Getting Started
 
