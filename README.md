@@ -72,6 +72,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any queries, feel free to contact:
 - Name: Ishaq Khan
-- Email: [Your Email]
-- GitHub: [GitHub Profile URL]
+- Email: muhammadishaq6027@gmail.com
+- GitHub: https://github.com/ishaqkhan6027
 
