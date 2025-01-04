@@ -1,7 +1,8 @@
 # Flutter Project
 
 ## Overview
-This Flutter project is designed to provide [brief description of the project's purpose, such as "a cross-platform mobile application for managing tasks"]. The project showcases the capabilities of Flutter for creating visually appealing and highly functional apps.
+This Flutter project is designed to provide a cross-platform mobile application for managing tasks of a world tour application. The main purpose of this application is to discover new world with beatiful nature. It provides the facility to the people to see how the world is beatiful and colorful. People can easily access this App and book the ticket for different country for the purpose of tour. The project showcases the capabilities of Flutter for creating visually appealing and highly functional apps.
+![Nature](assets/images/locations/beach.jpg)
 
 ## Features
 - Feature 1: "Responsive UI for both Android and iOS"
